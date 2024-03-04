@@ -3,7 +3,7 @@ Our GitHub page:https://tsfile.apache.org/
 
 The latest version of TsFile is 1.0.0.
 
-Downloading it from the [Maven central repository](https://search.maven.org/search?q=g:org.apache.tsfile)
+The TsFile team publishes its releases to [Maven central](https://search.maven.org/search?q=g:org.apache.tsfile) .
 
 Add the following dependency section to your pom.xml:
 
